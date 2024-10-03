@@ -1,5 +1,7 @@
 # AMCAT Data Exploratory Data Analysis (EDA)
 
+CODE link - https://colab.research.google.com/drive/1bjcqn9111-T2Tg9EONyzWWmWsZlBX4Jh?usp=sharing
+
 ## Overview
 This repository contains an Exploratory Data Analysis (EDA) project based on employee data from the AMCAT dataset. The analysis covers various features such as job roles, cities, academic performance, gender, and salaries, aiming to uncover key insights about job placement and compensation trends.
 
